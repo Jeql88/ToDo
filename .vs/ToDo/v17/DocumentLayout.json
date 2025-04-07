@@ -50,15 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Bookmark",
@@ -129,7 +125,7 @@
               "RelativeDocumentMoniker": "ToDo\\Views\\SignInPage.xaml",
               "ToolTip": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\Views\\SignInPage.xaml",
               "RelativeToolTip": "ToDo\\Views\\SignInPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwA0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBZwA0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-26T04:59:12.008Z",
               "EditorCaption": ""

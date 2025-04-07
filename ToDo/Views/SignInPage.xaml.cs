@@ -14,5 +14,11 @@ namespace ToDo.Views
         {
             await Navigation.PushAsync(new SignUpPage());
         }
+        
+        private async void OnSignInClicked(object sender, EventArgs e)
+        {
+            Console.WriteLine("Sign-In button clicked");
+            await Navigation.PushAsync(new ToDoTab());
+        }
     }
 }

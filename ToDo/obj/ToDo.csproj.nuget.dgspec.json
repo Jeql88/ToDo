@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\ToDo.csproj": {}
+    "C:\\Users\\Josh\\Documents\\devstuff\\todo\\MobDev\\ToDo\\ToDo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\ToDo.csproj": {
+    "C:\\Users\\Josh\\Documents\\devstuff\\todo\\MobDev\\ToDo\\ToDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\ToDo.csproj",
+        "projectUniqueName": "C:\\Users\\Josh\\Documents\\devstuff\\todo\\MobDev\\ToDo\\ToDo.csproj",
         "projectName": "ToDo",
-        "projectPath": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\ToDo.csproj",
+        "projectPath": "C:\\Users\\Josh\\Documents\\devstuff\\todo\\MobDev\\ToDo\\ToDo.csproj",
         "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josh\\source\\repos\\ToDo\\ToDo\\obj\\",
+        "outputPath": "C:\\Users\\Josh\\Documents\\devstuff\\todo\\MobDev\\ToDo\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -9,7 +9,10 @@
             <Entry Placeholder="Email address" Keyboard="Email" />
             <Entry Placeholder="Password" IsPassword="True" />
             <Label Text="Forgot Password?" TextColor="Gray" HorizontalOptions="End" />
-            <Button Text="Sign In" BackgroundColor="Black" TextColor="White" />
+            <Button Text="Sign In"
+                    Clicked="OnSignInClicked"
+                    BackgroundColor="Blue"
+                    TextColor="White"/>
             <HorizontalStackLayout HorizontalOptions="Center">
                 <Label Text="Don't have an account? " />
                 <!-- Tap on this label to navigate to the SignUpPage -->

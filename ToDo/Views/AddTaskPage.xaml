@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToDo.Views.AddTaskPage"
+             Title="New Task">
+    
+    <ScrollView>
+        <VerticalStackLayout Spacing="20" Padding="20">
+            <Label 
+                Text="TITLE"
+                FontSize="14"
+                TextColor="{StaticResource Gray500}"/>
+            
+            <Entry 
+                x:Name="TitleEntry"
+                Placeholder="Title (required)"
+                PlaceholderColor="{StaticResource Gray300}"/>
+            
+            <Label 
+                Text="DETAILS"
+                FontSize="14"
+                TextColor="{StaticResource Gray500}"/>
+            
+            <Editor 
+                x:Name="DetailsEditor"
+                Placeholder="Description (optional)"
+                PlaceholderColor="{StaticResource Gray300}"
+                HeightRequest="200"
+                AutoSize="TextChanges"/>
+            
+            <Button 
+                Text="Create"
+                BackgroundColor="Black"
+                TextColor="White"
+                CornerRadius="8"
+                HeightRequest="50"
+                VerticalOptions="End"
+                Clicked="OnCreateClicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage> 
