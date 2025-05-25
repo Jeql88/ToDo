@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oldn6ZFpbBA=",
+  "dgSpecHash": "DjnmLPIeU7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Josh\\Documents\\devstuff\\todo\\MobDev\\ToDo\\ToDo.csproj",
+  "projectFilePath": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\ToDo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josh\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Josh\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -112,7 +112,8 @@
     "C:\\Users\\Josh\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Josh\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\Josh\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.44\\microsoft.windows.sdk.net.ref.10.0.19041.44.nupkg.sha512"
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.44\\microsoft.windows.sdk.net.ref.10.0.19041.44.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-bionic-arm64\\8.0.10\\microsoft.netcore.app.runtime.linux-bionic-arm64.8.0.10.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,3 @@
+C:\Users\Josh\Documents\devstuff\MobDev\ToDo\bin\Release\net8.0-android\publish\com.companyname.todo-Signed.apk
+C:\Users\Josh\Documents\devstuff\MobDev\ToDo\bin\Release\net8.0-android\publish\com.companyname.todo.apk
+C:\Users\Josh\Documents\devstuff\MobDev\ToDo\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
