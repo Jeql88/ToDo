@@ -43,25 +43,30 @@
         </ScrollView>
 
         <!-- Loading Overlay -->
-        <!-- Loading Overlay -->
         <Grid x:Name="LoadingOverlay"
-              BackgroundColor="#80000080"
+              Grid.Row="0"
+              Grid.RowSpan="3"
+              BackgroundColor="#1A000000"
               IsVisible="False"
               VerticalOptions="FillAndExpand"
               HorizontalOptions="FillAndExpand"
               ZIndex="100">
-            <Frame Padding="30"
-                   CornerRadius="16"
-                   BackgroundColor="#CC222222"
-                   HorizontalOptions="Center"
-                   VerticalOptions="Center">
+            <VerticalStackLayout
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Spacing="16">
                 <ActivityIndicator IsRunning="True"
+                                   Color="{DynamicResource PrimaryTextColor}"
+                                   WidthRequest="48"
+                                   HeightRequest="48"
                                    VerticalOptions="Center"
-                                   HorizontalOptions="Center"
-                                   Color="White"
-                                   WidthRequest="60"
-                                   HeightRequest="60"/>
-            </Frame>
+                                   HorizontalOptions="Center"/>
+                <Label Text="Loading..."
+                       FontSize="16"
+                       TextColor="{DynamicResource PrimaryTextColor}"
+                       HorizontalOptions="Center"
+                       Opacity="0.7"/>
+            </VerticalStackLayout>
         </Grid>
     </Grid>
 </ContentPage>

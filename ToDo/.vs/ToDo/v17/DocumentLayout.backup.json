@@ -1,21 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\",
+  "WorkspaceRootPath": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\josh\\documents\\devstuff\\mobdev\\todo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\completed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\completed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\todotab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\todotab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\signinpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\addtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\addtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\views\\edittaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\edittaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:todo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\jeeyo\\documents\\sy. 2024-2025\\second sem\\mobdev project\\todo\\todo\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\josh\\documents\\devstuff\\mobdev\\todo\\views\\todotab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\todotab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|c:\\users\\josh\\documents\\devstuff\\mobdev\\todo\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2BEBB86-84FD-DB26-135C-E5D63312FA91}|ToDo.csproj|solutionrelative:views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,7 +57,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Bookmark",
@@ -41,56 +65,138 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignInPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\SignInPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SignInPage.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\SignInPage.xaml",
+              "RelativeToolTip": "Views\\SignInPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T06:22:57.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddTaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\AddTaskPage.xaml",
+              "RelativeDocumentMoniker": "Views\\AddTaskPage.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\AddTaskPage.xaml",
+              "RelativeToolTip": "Views\\AddTaskPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T06:22:54.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditTaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\EditTaskPage.xaml",
+              "RelativeDocumentMoniker": "Views\\EditTaskPage.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\EditTaskPage.xaml",
+              "RelativeToolTip": "Views\\EditTaskPage.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwEIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T06:22:24.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "Views\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\ProfilePage.xaml",
+              "RelativeToolTip": "Views\\ProfilePage.xaml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwHIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T06:17:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T14:42:19.502Z",
+              "Title": "Completed.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\Completed.xaml",
+              "RelativeDocumentMoniker": "Views\\Completed.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\Completed.xaml",
+              "RelativeToolTip": "Views\\Completed.xaml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAjwIIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T06:14:22.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDo.csproj",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\ToDo.csproj",
+              "RelativeDocumentMoniker": "ToDo.csproj",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\ToDo.csproj",
+              "RelativeToolTip": "ToDo.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T05:59:36.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SignUpPage.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\SignUpPage.xaml",
+              "RelativeToolTip": "Views\\SignUpPage.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T07:30:58.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ToDoTab.xaml",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\ToDoTab.xaml",
+              "RelativeDocumentMoniker": "Views\\ToDoTab.xaml",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\Views\\ToDoTab.xaml",
+              "RelativeToolTip": "Views\\ToDoTab.xaml",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAqwKkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T14:05:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Xamarin.Android.EmbeddedResource.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets",
-              "ViewState": "AgIAABgAAAAAAAAAAAD4vyYAAAAEAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.113\\tools\\Xamarin.Android.EmbeddedResource.targets",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-30T15:20:49.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ToDoTab.xaml",
-              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\Views\\ToDoTab.xaml",
-              "RelativeDocumentMoniker": "Views\\ToDoTab.xaml",
-              "ToolTip": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\Views\\ToDoTab.xaml",
-              "RelativeToolTip": "Views\\ToDoTab.xaml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDMAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T14:05:12.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignUpPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\Views\\SignUpPage.xaml",
-              "RelativeDocumentMoniker": "Views\\SignUpPage.xaml",
-              "ToolTip": "C:\\Users\\Josh\\Documents\\devstuff\\MobDev\\ToDo\\Views\\SignUpPage.xaml",
-              "RelativeToolTip": "Views\\SignUpPage.xaml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-10T07:30:58.13Z"
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\JeeYo\\Documents\\SY. 2024-2025\\Second Sem\\MobDev Project\\ToDo\\ToDo\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:42:19.502Z"
             }
           ]
         }
